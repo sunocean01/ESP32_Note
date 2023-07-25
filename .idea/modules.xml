@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Sensirion/10_product/60_PM25/110_experiment/2023/20230719_ascousticlauncher/.idea/20230719_ascousticlauncher.iml" filepath="$PROJECT_DIR$/../../Sensirion/10_product/60_PM25/110_experiment/2023/20230719_ascousticlauncher/.idea/20230719_ascousticlauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Sensirion/10_product/60_PM25/110_experiment/2023/20230719_ascousticlauncher/AcousticLauncher/.idea/AcousticLauncher.iml" filepath="$PROJECT_DIR$/../../Sensirion/10_product/60_PM25/110_experiment/2023/20230719_ascousticlauncher/AcousticLauncher/.idea/AcousticLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ESP32_Note.iml" filepath="$PROJECT_DIR$/.idea/ESP32_Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyQt5_Note/.idea/PyQt5_Note.iml" filepath="$PROJECT_DIR$/../PyQt5_Note/.idea/PyQt5_Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Serial_Note/.idea/Serial_Note.iml" filepath="$PROJECT_DIR$/../Serial_Note/.idea/Serial_Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Socket_Note/.idea/Socket_Note.iml" filepath="$PROJECT_DIR$/../Socket_Note/.idea/Socket_Note.iml" />
+    </modules>
+  </component>
+</project>

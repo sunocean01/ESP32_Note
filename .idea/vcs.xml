@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Serial_Note" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Socket_Note" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Sensirion/10_product/60_PM25/110_experiment/2023/20230719_ascousticlauncher/AcousticLauncher" vcs="svn" />
+  </component>
+</project>
